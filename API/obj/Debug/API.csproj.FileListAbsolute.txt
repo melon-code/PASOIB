@@ -1,0 +1,11 @@
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\bin\Debug\API.dll
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\bin\Debug\API.pdb
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\bin\Debug\System.Data.SQLite.dll
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\bin\Debug\System.Data.SQLite.pdb
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\bin\Debug\System.Data.SQLite.xml
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\bin\Debug\System.Data.SQLite.dll.config
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\obj\Debug\API.csproj.CopyComplete
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\obj\Debug\API.dll
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\obj\Debug\API.pdb
+V:\Библиотека\5 курс\ПАСОИБ\Курсовая\PASOIB\API\API\obj\Debug\API.csprojAssemblyReference.cache
